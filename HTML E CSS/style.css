@@ -1,0 +1,30 @@
+.subtitle {
+    color:black;
+}
+
+.post-title {
+    font-size: 16px;
+}
+
+#title{
+    color: black;
+}
+
+.lista {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.fundo {
+    background-color: grey;
+    text-transform:capitalize;
+    text-align: center;
+}
+
+.linha{
+    padding: 0px;
+    text-align: center;
+    display: justify;
+    margin: 0;
+}
