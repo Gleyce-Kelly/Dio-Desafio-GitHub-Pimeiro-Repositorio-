@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?familly=Open+Sans:wght@300;600&display=swap");
+body{
+    background-color: #17d6c680;
+    color: black;
+}
+
+.container{
+    height: auto;
+    width: max-content;
+    align-items: center;
+    margin: auto;
+}
+
+.button{
+    text-align: center;
+    color: rgb(24, 37, 122);
+}
